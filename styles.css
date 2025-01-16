@@ -1,0 +1,87 @@
+body{
+    background-image: url('194290-3840x2160-desktop-4k-outer-space-wallpaper-photo.jpg');
+    background-size: cover;
+}
+
+.contents{
+      width: 100%;
+      background-image: url('194290-3840x2160-desktop-4k-outer-space-wallpaper-photo.jpg');
+      color: silver;
+      padding: 2%;
+      border-radius: 7%;
+      border-bottom: 10px solid rgb(43, 46, 48);
+      text-align: center;
+}
+.one{
+    font-family: 'Roboto','Montserrat',sans-serif;
+    color: rgb(13, 15, 14);
+    font-weight: bolder;
+    padding: 3%;
+    margin-top: 3%;
+    border-radius: 5%;
+    border-bottom: 20px ridge grey;
+    background: linear-gradient(rgba(255,255,255,0.5),rgba(255,255,255,0.5)),
+    url("WhatsApp Image 2025-01-15 at 11.39.55 AM.jpeg");
+    background-size: cover;
+}
+.two{
+    font-family: 'Roboto','Montserrat',sans-serif;
+    color: rgb(13, 15, 14);
+    font-weight: bolder;
+    padding:3%;
+    margin-top: 3%;
+    border-radius:5%;
+    border-bottom: 20px ridge grey;
+    background: linear-gradient(rgba(255,255,255,0.5),rgba(255,255,255,0.5)),
+    url("WhatsApp Image 2025-01-15 at 12.13.01 PM.jpeg");
+    background-size: cover;
+}
+.three{
+    font-family: 'Roboto','Montserrat',sans-serif;
+    color: rgb(13, 15, 14);
+    font-weight: bolder;
+    padding:3%;
+    margin-top: 3%;
+    border-radius:5%;
+    border-bottom: 20px ridge grey;
+    background: linear-gradient(rgba(255,255,255,0.5),rgba(255,255,255,0.5)),
+    url("WhatsApp Image 2025-01-15 at 12.50.16 PM.jpeg");
+    background-size: cover;
+}
+.four{
+    font-family: 'Roboto','Montserrat',sans-serif;
+    color: rgb(13, 15, 14);
+    font-weight: bolder;
+    padding:3%;
+    margin-top: 3%;
+    border-radius:5%;
+    border-bottom: 20px ridge grey;
+    background: linear-gradient(rgba(255,255,255,0.5),rgba(255,255,255,0.5)),
+    url("WhatsApp Image 2025-01-15 at 1.26.50 PM.jpeg");
+    background-size: cover;
+}
+.five{
+    font-family: 'Roboto','Montserrat',sans-serif;
+    color: rgb(13, 15, 14);
+    font-weight: bolder;
+    padding:3%;
+    margin-top: 3%;
+    border-radius:5%;
+    border-bottom: 20px ridge grey;
+    background: linear-gradient(rgba(255,255,255,0.5),rgba(255,255,255,0.5)),
+    url("WhatsApp Image 2025-01-15 at 1.37.37 PM.jpeg");
+    background-size: cover;
+}
+.tips{
+    font-family: 'Roboto','Montserrat',sans-serif;
+    color: rgb(13, 15, 14);
+    font-weight: bolder;
+    padding:3%;
+    margin-top: 3%;
+    border-radius:5%;
+    border-bottom: 20px ridge grey;
+    background: linear-gradient(rgba(255,255,255,0.5),rgba(255,255,255,0.5)),
+    url("WhatsApp Image 2025-01-15 at 1.42.34 PM.jpeg");
+    background-size: cover;
+}
+    
